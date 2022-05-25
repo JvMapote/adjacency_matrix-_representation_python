@@ -1,4 +1,3 @@
-
 ''' 
 Jayvee N Mapote
 2020161610
@@ -7,7 +6,6 @@ CS104L/A12
 Write a Python program that will generate the adjacency matrix representation of the
 weighted graph below:
 '''
-
 # Creating adjacency matrix manually
 def manual():
  arr = [[0 for i in range(5)] for j in range(5)]

@@ -17,7 +17,6 @@ def manual():
  arr[2][4] = arr[4][2] = 13
  arr[3][4] = arr[4][2] = 9
  return arr
-
   
 # getting user input to create adjacency matrix
 def userInput():
